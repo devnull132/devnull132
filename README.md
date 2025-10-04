@@ -16,7 +16,7 @@ I'm a backend developer specializing in building robust and scalable APIs. My cu
 ## 🌐 Social & Community
 
 <p align="left">
-  <a href="https://t.me/programisticDanya" target="_blank">
+  <a href="https://t.me/devnull56" target="_blank">
     <img src="https://img.shields.io/badge/Telegram_Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
   <a href="https://t.me/devnull_000" target="_blank">
