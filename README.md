@@ -43,14 +43,3 @@ I'm a backend developer specializing in building robust and scalable APIs. My cu
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=devnull132&theme=radical&hide_border=true)
 
-## FastAPI best repo:
-![Best repo spring 2025](https://github.com/devnull132/TaskManager)
-
-![Best repo summer 2025](https://github.com/devnull132/OrderFirstRabbitmq)
-
-
-## Aiogram best repo:
-![Best repo spring 2025](https://github.com/devnull132/MilkBot)
-
-![Best repo summer 2025](https://github.com/devnull132/Football_cards_tg-bot)
-
